@@ -1,0 +1,1 @@
+A Neural Network is a computational model that mimics the structure and functionality of the human brain, used to solve various artificial intelligence and machine learning problems. This code is designed to distinguish between red flowers and blue flowers, setting some basic values for differentiation, and finally presenting the results using tables and charts.
